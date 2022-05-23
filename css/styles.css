@@ -1,0 +1,32 @@
+#autor {
+  text-align: right;
+}
+
+/* (12) FOTO PRINCIPAL */
+img {
+  width: 800px;
+  height: 374px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* (14) link VOLTAR PARA O TOPO
+#botongotop {
+  font-size: 21px;
+  font-weight: black;
+  color: #0037b3;
+} */
+
+/* (11) MODO DE PREPARACION */
+#paparacion {
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 21px;
+}
+
+.line hr {
+  height: 2px;
+  border: 0;
+  background: grey;
+}
